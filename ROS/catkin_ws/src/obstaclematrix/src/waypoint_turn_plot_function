@@ -1,0 +1,19 @@
+// min_weighted_sum = 10000;        
+  //       for(k = waypt_turn_point[0].size()-turn_count ; k < waypt_turn_point[0].size() ; k++)
+  //       {
+  //       	current_bearing = rad2deg(bearing(prev_position[0], prev_position[1], current_position[0], current_position[1] ));      // heading between previous and current location
+  //       	turn_bearing = rad2deg(bearing(current_position[0], current_position[1], waypt_turn_point[0].at(k), waypt_turn_point[1].at(k) ));	// heading between current location and each turn point
+  //       	distance_to_upcomming_turn = distance(current_position[0], current_position[1], waypt_turn_point[0].at(k), waypt_turn_point[1].at(k));
+  //       	bearing_diff = fabs(current_bearing- turn_bearing);
+  //       	weighted_sum = distance_to_upcomming_turn*distance_weight + bearing_diff*bearing_weight + k*index_weight;
+  //       	{
+  //       		if(distance_to_upcomming_turn > 0)
+	 //        	{
+		//           	if(weighted_sum <= min_weighted_sum)
+		// 			{
+		// 				min_weighted_sum = weighted_sum;
+		// 		        relevant_turn_index = k;
+	 //    			}
+	 //    		}
+  //   		}
+  //   	}

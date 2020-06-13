@@ -1,0 +1,6 @@
+<launch>
+	<node name = "pixhwk_ctrl_node" pkg = "pixhwk_ctrl_node" type = "pixhawkctrlNode" output="screen">
+	</node>
+	<node name = "test_controller" pkg = "pixhwk_ctrl_node" type = "test_controller" output="screen">
+	</node>
+</launch>

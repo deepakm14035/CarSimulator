@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: can
+Description: Description of can
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lcan_driver
+Requires: roscpp rospy std_msgs message_runtime

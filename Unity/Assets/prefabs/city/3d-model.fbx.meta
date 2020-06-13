@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: ee12ca5dbdf806648b298ff733eb156f
+timeCreated: 1502600006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: canteen_001
+    100004: Car_Simple_001
+    100006: Car_Simple_002
+    100008: Car_Simple_003
+    100010: Car_Simple_004
+    100012: Car_Simple_005
+    100014: Car_Simple_006
+    100016: CarTire3#1_001
+    100018: CarTire3#1_002
+    100020: CarTire3#1_003
+    100022: CarTire3#1_004
+    100024: CarTire3#1_005
+    100026: CarTire3#1_006
+    100028: CarTire3#1_007
+    100030: CarTire3#1_008
+    100032: CarTire3#1_009
+    100034: CarTire3#1_010
+    100036: CarTire3#1_011
+    100038: CarTire3#1_012
+    100040: CarTire3#1_013
+    100042: CarTire3#1_014
+    100044: CarTire3#1_015
+    100046: CarTire3#1_016
+    100048: CarTire3#1_017
+    100050: CarTire3#1_018
+    100052: CarTire3#1_019
+    100054: CarTire3#1_020
+    100056: CarTire3#1_021
+    100058: CarTire3#1_022
+    100060: CarTire3#1_023
+    100062: CarTire3#1_024
+    100064: Component#1_001
+    100066: Group_001
+    100068: Group_003
+    100070: Group_005
+    100072: Group_007
+    100074: Group_008
+    100076: Group_009
+    100078: Group_011
+    100080: Group_013
+    100082: Group_015
+    100084: Group_016
+    100086: Group_017
+    100088: Group_018
+    100090: Group_019
+    100092: Group_021
+    100094: Group_023
+    100096: Group_025
+    100098: Group_027
+    100100: Group_029
+    100102: Group_031
+    100104: Group_032
+    100106: Group_033
+    100108: Group_034
+    100110: Group_035
+    100112: Group_036
+    100114: Group_037
+    100116: Group_038
+    100118: Group_040
+    100120: Group_042
+    100122: Layer0_001
+    100124: parking_001
+    100126: parking_concrete_bumper_001
+    100128: parking_concrete_bumper_002
+    100130: parking_concrete_bumper_003
+    100132: parking_concrete_bumper_004
+    100134: parking_concrete_bumper_005
+    100136: parking_concrete_bumper_006
+    100138: parking_concrete_bumper_007
+    100140: parking_concrete_bumper_008
+    100142: parking_concrete_bumper_009
+    100144: parking_concrete_bumper_010
+    100146: parking_concrete_bumper_011
+    100148: parking_concrete_bumper_012
+    100150: parking_concrete_bumper_013
+    100152: parking_concrete_bumper_014
+    100154: parking_concrete_bumper_015
+    100156: parking_concrete_bumper_016
+    100158: parking_concrete_bumper_017
+    100160: parking_concrete_bumper_018
+    100162: parking_concrete_bumper_019
+    100164: parking_concrete_bumper_020
+    100166: SUV tire#1_001
+    100168: SUV tire#1_002
+    100170: SUV tire#1_003
+    100172: SUV tire#1_004
+    100174: SUV tire#1_005
+    100176: SUV tire#1_006
+    100178: SUV tire#1_007
+    100180: SUV tire#1_008
+    100182: SUV tire#1_009
+    100184: SUV tire#1_010
+    100186: SUV_Simple_001
+    100188: SUV_Simple_003
+    100190: tire_cover_001
+    100192: tire_cover_002
+    100194: tire_cover_003
+    100196: tire_cover_004
+    100198: Truck Wheel_001
+    100200: Truck Wheel_002
+    100202: Truck Wheel_003
+    100204: Truck Wheel_004
+    100206: Truck Wheel_005
+    100208: Truck Wheel_006
+    100210: Truck Wheel_007
+    100212: Truck Wheel_008
+    100214: Truck_Pickup_Simple_Small_001
+    100216: Truck_Pickup_Simple_Small_003
+    400000: //RootNode
+    400002: canteen_001
+    400004: Car_Simple_001
+    400006: Car_Simple_002
+    400008: Car_Simple_003
+    400010: Car_Simple_004
+    400012: Car_Simple_005
+    400014: Car_Simple_006
+    400016: CarTire3#1_001
+    400018: CarTire3#1_002
+    400020: CarTire3#1_003
+    400022: CarTire3#1_004
+    400024: CarTire3#1_005
+    400026: CarTire3#1_006
+    400028: CarTire3#1_007
+    400030: CarTire3#1_008
+    400032: CarTire3#1_009
+    400034: CarTire3#1_010
+    400036: CarTire3#1_011
+    400038: CarTire3#1_012
+    400040: CarTire3#1_013
+    400042: CarTire3#1_014
+    400044: CarTire3#1_015
+    400046: CarTire3#1_016
+    400048: CarTire3#1_017
+    400050: CarTire3#1_018
+    400052: CarTire3#1_019
+    400054: CarTire3#1_020
+    400056: CarTire3#1_021
+    400058: CarTire3#1_022
+    400060: CarTire3#1_023
+    400062: CarTire3#1_024
+    400064: Component#1_001
+    400066: Group_001
+    400068: Group_003
+    400070: Group_005
+    400072: Group_007
+    400074: Group_008
+    400076: Group_009
+    400078: Group_011
+    400080: Group_013
+    400082: Group_015
+    400084: Group_016
+    400086: Group_017
+    400088: Group_018
+    400090: Group_019
+    400092: Group_021
+    400094: Group_023
+    400096: Group_025
+    400098: Group_027
+    400100: Group_029
+    400102: Group_031
+    400104: Group_032
+    400106: Group_033
+    400108: Group_034
+    400110: Group_035
+    400112: Group_036
+    400114: Group_037
+    400116: Group_038
+    400118: Group_040
+    400120: Group_042
+    400122: Layer0_001
+    400124: parking_001
+    400126: parking_concrete_bumper_001
+    400128: parking_concrete_bumper_002
+    400130: parking_concrete_bumper_003
+    400132: parking_concrete_bumper_004
+    400134: parking_concrete_bumper_005
+    400136: parking_concrete_bumper_006
+    400138: parking_concrete_bumper_007
+    400140: parking_concrete_bumper_008
+    400142: parking_concrete_bumper_009
+    400144: parking_concrete_bumper_010
+    400146: parking_concrete_bumper_011
+    400148: parking_concrete_bumper_012
+    400150: parking_concrete_bumper_013
+    400152: parking_concrete_bumper_014
+    400154: parking_concrete_bumper_015
+    400156: parking_concrete_bumper_016
+    400158: parking_concrete_bumper_017
+    400160: parking_concrete_bumper_018
+    400162: parking_concrete_bumper_019
+    400164: parking_concrete_bumper_020
+    400166: SUV tire#1_001
+    400168: SUV tire#1_002
+    400170: SUV tire#1_003
+    400172: SUV tire#1_004
+    400174: SUV tire#1_005
+    400176: SUV tire#1_006
+    400178: SUV tire#1_007
+    400180: SUV tire#1_008
+    400182: SUV tire#1_009
+    400184: SUV tire#1_010
+    400186: SUV_Simple_001
+    400188: SUV_Simple_003
+    400190: tire_cover_001
+    400192: tire_cover_002
+    400194: tire_cover_003
+    400196: tire_cover_004
+    400198: Truck Wheel_001
+    400200: Truck Wheel_002
+    400202: Truck Wheel_003
+    400204: Truck Wheel_004
+    400206: Truck Wheel_005
+    400208: Truck Wheel_006
+    400210: Truck Wheel_007
+    400212: Truck Wheel_008
+    400214: Truck_Pickup_Simple_Small_001
+    400216: Truck_Pickup_Simple_Small_003
+    2300000: canteen_001
+    2300002: Car_Simple_001
+    2300004: Car_Simple_002
+    2300006: Car_Simple_003
+    2300008: Car_Simple_004
+    2300010: Car_Simple_005
+    2300012: Car_Simple_006
+    2300014: CarTire3#1_001
+    2300016: CarTire3#1_002
+    2300018: CarTire3#1_003
+    2300020: CarTire3#1_004
+    2300022: CarTire3#1_005
+    2300024: CarTire3#1_006
+    2300026: CarTire3#1_007
+    2300028: CarTire3#1_008
+    2300030: CarTire3#1_009
+    2300032: CarTire3#1_010
+    2300034: CarTire3#1_011
+    2300036: CarTire3#1_012
+    2300038: CarTire3#1_013
+    2300040: CarTire3#1_014
+    2300042: CarTire3#1_015
+    2300044: CarTire3#1_016
+    2300046: CarTire3#1_017
+    2300048: CarTire3#1_018
+    2300050: CarTire3#1_019
+    2300052: CarTire3#1_020
+    2300054: CarTire3#1_021
+    2300056: CarTire3#1_022
+    2300058: CarTire3#1_023
+    2300060: CarTire3#1_024
+    2300062: Component#1_001
+    2300064: Group_001
+    2300066: Group_003
+    2300068: Group_005
+    2300070: Group_007
+    2300072: Group_008
+    2300074: Group_009
+    2300076: Group_011
+    2300078: Group_013
+    2300080: Group_015
+    2300082: Group_016
+    2300084: Group_017
+    2300086: Group_018
+    2300088: Group_019
+    2300090: Group_021
+    2300092: Group_023
+    2300094: Group_025
+    2300096: Group_027
+    2300098: Group_029
+    2300100: Group_031
+    2300102: Group_032
+    2300104: Group_033
+    2300106: Group_034
+    2300108: Group_035
+    2300110: Group_036
+    2300112: Group_037
+    2300114: Group_038
+    2300116: Group_040
+    2300118: Group_042
+    2300120: Layer0_001
+    2300122: parking_001
+    2300124: parking_concrete_bumper_001
+    2300126: parking_concrete_bumper_002
+    2300128: parking_concrete_bumper_003
+    2300130: parking_concrete_bumper_004
+    2300132: parking_concrete_bumper_005
+    2300134: parking_concrete_bumper_006
+    2300136: parking_concrete_bumper_007
+    2300138: parking_concrete_bumper_008
+    2300140: parking_concrete_bumper_009
+    2300142: parking_concrete_bumper_010
+    2300144: parking_concrete_bumper_011
+    2300146: parking_concrete_bumper_012
+    2300148: parking_concrete_bumper_013
+    2300150: parking_concrete_bumper_014
+    2300152: parking_concrete_bumper_015
+    2300154: parking_concrete_bumper_016
+    2300156: parking_concrete_bumper_017
+    2300158: parking_concrete_bumper_018
+    2300160: parking_concrete_bumper_019
+    2300162: parking_concrete_bumper_020
+    2300164: SUV tire#1_001
+    2300166: SUV tire#1_002
+    2300168: SUV tire#1_003
+    2300170: SUV tire#1_004
+    2300172: SUV tire#1_005
+    2300174: SUV tire#1_006
+    2300176: SUV tire#1_007
+    2300178: SUV tire#1_008
+    2300180: SUV tire#1_009
+    2300182: SUV tire#1_010
+    2300184: SUV_Simple_001
+    2300186: SUV_Simple_003
+    2300188: tire_cover_001
+    2300190: tire_cover_002
+    2300192: tire_cover_003
+    2300194: tire_cover_004
+    2300196: Truck Wheel_001
+    2300198: Truck Wheel_002
+    2300200: Truck Wheel_003
+    2300202: Truck Wheel_004
+    2300204: Truck Wheel_005
+    2300206: Truck Wheel_006
+    2300208: Truck Wheel_007
+    2300210: Truck Wheel_008
+    2300212: Truck_Pickup_Simple_Small_001
+    2300214: Truck_Pickup_Simple_Small_003
+    3300000: canteen_001
+    3300002: Car_Simple_001
+    3300004: Car_Simple_002
+    3300006: Car_Simple_003
+    3300008: Car_Simple_004
+    3300010: Car_Simple_005
+    3300012: Car_Simple_006
+    3300014: CarTire3#1_001
+    3300016: CarTire3#1_002
+    3300018: CarTire3#1_003
+    3300020: CarTire3#1_004
+    3300022: CarTire3#1_005
+    3300024: CarTire3#1_006
+    3300026: CarTire3#1_007
+    3300028: CarTire3#1_008
+    3300030: CarTire3#1_009
+    3300032: CarTire3#1_010
+    3300034: CarTire3#1_011
+    3300036: CarTire3#1_012
+    3300038: CarTire3#1_013
+    3300040: CarTire3#1_014
+    3300042: CarTire3#1_015
+    3300044: CarTire3#1_016
+    3300046: CarTire3#1_017
+    3300048: CarTire3#1_018
+    3300050: CarTire3#1_019
+    3300052: CarTire3#1_020
+    3300054: CarTire3#1_021
+    3300056: CarTire3#1_022
+    3300058: CarTire3#1_023
+    3300060: CarTire3#1_024
+    3300062: Component#1_001
+    3300064: Group_001
+    3300066: Group_003
+    3300068: Group_005
+    3300070: Group_007
+    3300072: Group_008
+    3300074: Group_009
+    3300076: Group_011
+    3300078: Group_013
+    3300080: Group_015
+    3300082: Group_016
+    3300084: Group_017
+    3300086: Group_018
+    3300088: Group_019
+    3300090: Group_021
+    3300092: Group_023
+    3300094: Group_025
+    3300096: Group_027
+    3300098: Group_029
+    3300100: Group_031
+    3300102: Group_032
+    3300104: Group_033
+    3300106: Group_034
+    3300108: Group_035
+    3300110: Group_036
+    3300112: Group_037
+    3300114: Group_038
+    3300116: Group_040
+    3300118: Group_042
+    3300120: Layer0_001
+    3300122: parking_001
+    3300124: parking_concrete_bumper_001
+    3300126: parking_concrete_bumper_002
+    3300128: parking_concrete_bumper_003
+    3300130: parking_concrete_bumper_004
+    3300132: parking_concrete_bumper_005
+    3300134: parking_concrete_bumper_006
+    3300136: parking_concrete_bumper_007
+    3300138: parking_concrete_bumper_008
+    3300140: parking_concrete_bumper_009
+    3300142: parking_concrete_bumper_010
+    3300144: parking_concrete_bumper_011
+    3300146: parking_concrete_bumper_012
+    3300148: parking_concrete_bumper_013
+    3300150: parking_concrete_bumper_014
+    3300152: parking_concrete_bumper_015
+    3300154: parking_concrete_bumper_016
+    3300156: parking_concrete_bumper_017
+    3300158: parking_concrete_bumper_018
+    3300160: parking_concrete_bumper_019
+    3300162: parking_concrete_bumper_020
+    3300164: SUV tire#1_001
+    3300166: SUV tire#1_002
+    3300168: SUV tire#1_003
+    3300170: SUV tire#1_004
+    3300172: SUV tire#1_005
+    3300174: SUV tire#1_006
+    3300176: SUV tire#1_007
+    3300178: SUV tire#1_008
+    3300180: SUV tire#1_009
+    3300182: SUV tire#1_010
+    3300184: SUV_Simple_001
+    3300186: SUV_Simple_003
+    3300188: tire_cover_001
+    3300190: tire_cover_002
+    3300192: tire_cover_003
+    3300194: tire_cover_004
+    3300196: Truck Wheel_001
+    3300198: Truck Wheel_002
+    3300200: Truck Wheel_003
+    3300202: Truck Wheel_004
+    3300204: Truck Wheel_005
+    3300206: Truck Wheel_006
+    3300208: Truck Wheel_007
+    3300210: Truck Wheel_008
+    3300212: Truck_Pickup_Simple_Small_001
+    3300214: Truck_Pickup_Simple_Small_003
+    4300000: Component#1_001
+    4300002: parking_concrete_bumper_020
+    4300004: parking_concrete_bumper_019
+    4300006: parking_concrete_bumper_018
+    4300008: parking_concrete_bumper_017
+    4300010: parking_concrete_bumper_016
+    4300012: parking_concrete_bumper_015
+    4300014: parking_concrete_bumper_014
+    4300016: parking_concrete_bumper_013
+    4300018: parking_concrete_bumper_012
+    4300020: parking_concrete_bumper_011
+    4300022: SUV tire#1_010
+    4300024: SUV tire#1_009
+    4300026: SUV tire#1_008
+    4300028: SUV tire#1_007
+    4300030: SUV tire#1_006
+    4300032: SUV_Simple_003
+    4300034: CarTire3#1_024
+    4300036: CarTire3#1_023
+    4300038: CarTire3#1_022
+    4300040: CarTire3#1_021
+    4300042: Car_Simple_006
+    4300044: CarTire3#1_020
+    4300046: CarTire3#1_019
+    4300048: CarTire3#1_018
+    4300050: CarTire3#1_017
+    4300052: Car_Simple_005
+    4300054: CarTire3#1_016
+    4300056: CarTire3#1_015
+    4300058: CarTire3#1_014
+    4300060: CarTire3#1_013
+    4300062: Car_Simple_004
+    4300064: tire_cover_004
+    4300066: tire_cover_003
+    4300068: Truck Wheel_008
+    4300070: Truck Wheel_007
+    4300072: Truck Wheel_006
+    4300074: Truck Wheel_005
+    4300076: Truck_Pickup_Simple_Small_003
+    4300078: parking_concrete_bumper_010
+    4300080: parking_concrete_bumper_009
+    4300082: parking_concrete_bumper_008
+    4300084: parking_concrete_bumper_007
+    4300086: parking_concrete_bumper_006
+    4300088: parking_concrete_bumper_005
+    4300090: parking_concrete_bumper_004
+    4300092: parking_concrete_bumper_003
+    4300094: parking_concrete_bumper_002
+    4300096: parking_concrete_bumper_001
+    4300098: SUV tire#1_005
+    4300100: SUV tire#1_004
+    4300102: SUV tire#1_003
+    4300104: SUV tire#1_002
+    4300106: SUV tire#1_001
+    4300108: SUV_Simple_001
+    4300110: CarTire3#1_012
+    4300112: CarTire3#1_011
+    4300114: CarTire3#1_010
+    4300116: CarTire3#1_009
+    4300118: Car_Simple_003
+    4300120: CarTire3#1_008
+    4300122: CarTire3#1_007
+    4300124: CarTire3#1_006
+    4300126: CarTire3#1_005
+    4300128: Car_Simple_002
+    4300130: CarTire3#1_004
+    4300132: CarTire3#1_003
+    4300134: CarTire3#1_002
+    4300136: CarTire3#1_001
+    4300138: Car_Simple_001
+    4300140: tire_cover_002
+    4300142: tire_cover_001
+    4300144: Truck Wheel_004
+    4300146: Truck Wheel_003
+    4300148: Truck Wheel_002
+    4300150: Truck Wheel_001
+    4300152: Truck_Pickup_Simple_Small_001
+    4300154: Group_042
+    4300156: Group_040
+    4300158: Group_038
+    4300160: Group_037
+    4300162: Group_036
+    4300164: Group_035
+    4300166: Group_034
+    4300168: Group_033
+    4300170: Group_032
+    4300172: Group_031
+    4300174: Group_029
+    4300176: Group_027
+    4300178: Group_025
+    4300180: Group_023
+    4300182: Group_021
+    4300184: Group_019
+    4300186: Group_018
+    4300188: Group_017
+    4300190: Group_016
+    4300192: Group_015
+    4300194: Group_013
+    4300196: Group_011
+    4300198: Group_009
+    4300200: Group_008
+    4300202: Group_007
+    4300204: Group_005
+    4300206: Group_003
+    4300208: Group_001
+    4300210: Layer0_001
+    4300212: parking_001
+    4300214: canteen_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

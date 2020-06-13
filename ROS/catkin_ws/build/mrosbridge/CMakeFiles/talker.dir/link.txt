@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/talker.dir/src/talker.cpp.o  -o /home/deepak/catkin_ws/devel/lib/mrosbridge/talker -rdynamic 

@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 7a8dc46ecdbe0b749a5d074c2dacf8b6
+timeCreated: 1501925163
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backright
+    100002: Camera_Interest_default
+    100004: Camera_Interest_default.001
+    100006: Camera_Interest_default.002
+    100008: //RootNode
+    100010: frontleft
+    100012: frontright
+    100014: leftback
+    100016: lwo_2009_chrysler_sebring_yellow
+    100018: main
+    100020: windows
+    400000: backright
+    400002: Camera_Interest_default
+    400004: Camera_Interest_default.001
+    400006: Camera_Interest_default.002
+    400008: //RootNode
+    400010: frontleft
+    400012: frontright
+    400014: leftback
+    400016: lwo_2009_chrysler_sebring_yellow
+    400018: main
+    400020: windows
+    2300000: backright
+    2300002: frontleft
+    2300004: frontright
+    2300006: leftback
+    2300008: main
+    2300010: windows
+    3300000: backright
+    3300002: frontleft
+    3300004: frontright
+    3300006: leftback
+    3300008: main
+    3300010: windows
+    4300000: backright
+    4300002: frontleft
+    4300004: leftback
+    4300006: windows
+    4300008: main
+    4300010: frontright
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

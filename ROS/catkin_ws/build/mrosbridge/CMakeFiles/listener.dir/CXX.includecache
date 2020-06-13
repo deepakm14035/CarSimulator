@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deepak/catkin_ws/src/mrosbridge/src/listener.cpp
+ros/ros.h
+-
+std_msgs/String.h
+-
+

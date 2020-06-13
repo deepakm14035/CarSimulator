@@ -1,0 +1,8 @@
+prefix=/home/deepak/catkin_ws/install
+
+Name: can
+Description: Description of can
+Version: 0.0.0
+Cflags: -I/home/deepak/catkin_ws/install/include
+Libs: -L/home/deepak/catkin_ws/install/lib -lcan_driver
+Requires: roscpp rospy std_msgs message_runtime

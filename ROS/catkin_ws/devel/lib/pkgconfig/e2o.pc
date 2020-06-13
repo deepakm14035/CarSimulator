@@ -1,0 +1,8 @@
+prefix=/home/deepak/catkin_ws/devel
+
+Name: e2o
+Description: Description of e2o
+Version: 0.0.0
+Cflags: -I/home/deepak/catkin_ws/src/e2o/include
+Libs: -L/home/deepak/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime can

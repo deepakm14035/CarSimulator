@@ -1,0 +1,31 @@
+Tasks:
+
+1. Video using curve following (waypoint following)
+	- Put 10 vehicles with no collision avoidance (Mon evening)
+	
+2. Models for neighbouring vehicle motion (from games)
+
+3. Jot down methods from highwayFlocking 
+4. Physics engine
+
+(2&3 are on Tuesday 2PM  - only methodology, no implementation)
+
+Moving along tangents of the road
+Maintain distance from other cars
+Do not go off road
+avoid vehicles coming in opposite direction
+create path for higher priority vehicles
+flocking
+prioritized movement
+
+occupancy grid
+
+look at how thesis did it
+better car models
+report(today)
+other game models(today)
+swarm intelligence
+competitive cooperative behaviour
+lane following
+find lane, color
+get cars in field of view(don't mention car if its view is blocked by another car)

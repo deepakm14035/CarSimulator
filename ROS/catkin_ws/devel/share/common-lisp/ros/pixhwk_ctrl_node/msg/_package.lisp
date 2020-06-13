@@ -1,0 +1,19 @@
+(cl:defpackage pixhwk_ctrl_node-msg
+  (:use )
+  (:export
+   "<LANES>"
+   "LANES"
+   "<OMPLSTATUS>"
+   "OMPLSTATUS"
+   "<PIXHAWK_GOAL>"
+   "PIXHAWK_GOAL"
+   "<PIXHAWK_STEERINGCONTROL>"
+   "PIXHAWK_STEERINGCONTROL"
+   "<PIXHAWK_THROTTLECONTROL>"
+   "PIXHAWK_THROTTLECONTROL"
+   "<DESIRED_VELOCITY>"
+   "DESIRED_VELOCITY"
+   "<TRAFFIC_LIGHT>"
+   "TRAFFIC_LIGHT"
+  ))
+

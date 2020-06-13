@@ -1,0 +1,2 @@
+set(pixhwk_ctrl_node_MESSAGE_FILES "/home/deepak/catkin_ws/src/PixHawkController/msg/OmplStatus.msg;/home/deepak/catkin_ws/src/PixHawkController/msg/PixHawk_Goal.msg;/home/deepak/catkin_ws/src/PixHawkController/msg/PixHawk_SteeringControl.msg;/home/deepak/catkin_ws/src/PixHawkController/msg/PixHawk_ThrottleControl.msg;/home/deepak/catkin_ws/src/PixHawkController/msg/Lanes.msg;/home/deepak/catkin_ws/src/PixHawkController/msg/traffic_light.msg;/home/deepak/catkin_ws/src/PixHawkController/msg/desired_velocity.msg")
+set(pixhwk_ctrl_node_SERVICE_FILES "")

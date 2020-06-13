@@ -1,0 +1,6 @@
+To run-
+1. Download 'cars_final_av.exe' and 'cars_final_av_data'.
+2. Run the executable.
+3. Select your preferred settings and start (set lower resolution for higher frame rate)
+4. Type your IP Address(example, 192.168.55.245) and port as 15001 and start
+5. Images can be found in 'cars_final_av_data' folder
